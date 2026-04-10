@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tryin. — Virtual Try-On App
 
 A luxury fashion virtual try-on website powered by Google Gemini AI.
