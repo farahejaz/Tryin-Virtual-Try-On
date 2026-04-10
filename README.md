@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tryin. — Virtual Try-On App
 
 A luxury fashion virtual try-on website powered by Google Gemini AI.
@@ -61,3 +62,6 @@ npm run preview
 - @google/generative-ai SDK
 - Gemini 2.0 Flash (image generation model)
 - Pure CSS (no UI library)
+=======
+# Tryin-Virtual-Try-On
+>>>>>>> 3c1467c22ab8650e1e8e36b3f0928f6e0385b420
